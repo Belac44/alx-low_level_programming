@@ -4,7 +4,7 @@
 /**
  * main - check the code.
  *
- * 
+ * c - alphabetic character
  * 
  * Return: Always 0.
  */
