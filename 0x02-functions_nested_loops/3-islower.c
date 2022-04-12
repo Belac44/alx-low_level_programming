@@ -2,9 +2,11 @@
 #include <ctype.h>
 #include "main.h"
 /**
- * islower - check if upper or lowercase
- *
- * Return: 1 if true and o otherwise
+ * _islower - check if upper or lowercase
+ * 
+ * c - 
+ * 
+ * Return: 1 if true and 0 otherwise
  */
 int _islower(int c)
 {
