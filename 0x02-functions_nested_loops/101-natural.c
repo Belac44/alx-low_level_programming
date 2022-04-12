@@ -17,6 +17,3 @@ int main(void)
 	printf("%d\n", total);
 	return (0);
 }
-© 2022 GitHub, Inc.
-Terms
-Privacy
